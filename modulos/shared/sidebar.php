@@ -8,4 +8,7 @@
     <ul>
         <li><a href='/modulos/entradas/index.php/'><i class="fas fa-plug"></i> Entradas</a></li>
     </ul>
+    <ul>
+        <li><a href='/modulos/niveles/index.php/'><i class="fas fa-level-up-alt"></i> Niveles</a></li>
+    </ul>
 </aside>
